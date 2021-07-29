@@ -1,0 +1,22 @@
+a b c d e f
+1
+X Y
+<
+*
+13
+a 1 b X D
+b 1 b 1 D
+b Y b Y D
+b * c Y E
+c 1 c 1 E
+c Y c Y E
+c X a X D
+a Y d Y D
+d Y d Y D
+d * e * E
+e Y e 1 E
+e X e 1 E
+e < f < D
+a
+f
+* 0 1 111 01 10 111111

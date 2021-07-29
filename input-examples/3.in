@@ -1,0 +1,28 @@
+a b c d e f
+0 1
+Y X *
+<
+*
+19
+e < a < D
+a X a X D 
+a Y a Y D
+a 1 b X D
+a 0 c Y D
+c 0 c 0 D
+c X c X D
+c 1 d X E
+d 0 d 0 E
+d X d X E
+d Y a Y D
+b 1 b 1 D
+b Y b Y D
+b X b X D
+b 0 e Y E
+b * f * E 
+e 1 b X D
+e Y e Y E
+e X e X E
+a
+f
+0 10 1 11 110 011 1110 001 010
